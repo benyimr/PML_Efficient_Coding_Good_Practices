@@ -19,3 +19,6 @@ This repository contains the slides and supporting materials for the workshop. S
 - The **simulation/** folder contains the R script that generates the simulated data used in the analysis.
 - The **renv/** folder and related files should not be modified. They are included for reproducibility. To learn more about how `renv` works, see the official [renv](https://rstudio.github.io/renv/articles/renv.html) documentation.
 - The **examples/** folder contains the R scripts for the two short practical exercises discussed during the workshop.
+
+The file **Slide_Deck__PML_Workshop_2025__BMR.pdf** is the slide deck for the session. If you prefer, you can download the compressed file containing all workshop materials (PML_Coding_Workshop_2025.zip).
+
